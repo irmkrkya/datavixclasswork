@@ -1,0 +1,52 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		
+		<style>
+		.title{
+			font-style:bold;
+			font-size:24px;
+			font-family:Arial;
+			color: #FF0000;
+		}
+		.imgDiv {
+				width:400 px;
+				border:solid 1px #000000;"
+			}  
+		</style>
+		
+		<title>My Refuge Story Collection</title>
+	</head>
+	<body>
+		<div>
+			
+			<!-- This first div the one that I wil duplicate
+			-->
+			<div class="title">
+				<a href="https://www.nytimes.com/interactive/2015/09/15/world/europe/migrant-borders-europe.html?_r=0"> 
+				Closing the Back Door's to Europe 
+				</a> 
+				Pretend this is a subtitle
+			</div>
+			<div style="width:400px; border:solid 1px #000000;">                       
+				<img style="width:100%;" src="https://static01.nyt.com/newsgraphics/2015/09/14/migrants-borders/a127a650a0ea71d80095e5de196dc181e238e753/top_map-700.jpg" /> 
+			 </div>
+		</div> 
+		<div>My stroy goes here! </div>
+		<div>
+			<div class="title" >
+				<a href="https://www.nytimes.com/interactive/2015/09/15/world/europe/migrant-borders-europe.html?_r=0"> 
+				Closing the Back Door's to Europe 
+				</a> 
+			</div>
+			<div style="width:400px; border:solid 1px #000000;">                       
+				<img style="width:100%;" src="https://static01.nyt.com/newsgraphics/2015/09/14/migrants-borders/a127a650a0ea71d80095e5de196dc181e238e753/top_map-700.jpg" /> 
+			 </div>
+		</div> 
+		<div> My stroy goes here! </div>
+		
+	</body>
+</html>
+
